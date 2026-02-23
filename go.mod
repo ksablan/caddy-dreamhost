@@ -1,3 +1,4 @@
+replace github.com/caddy-dns/dreamhost => github.com/ksablan/caddy-dreamhost
 module github.com/ksablan/caddy-dreamhost
 
 go 1.16
