@@ -3,7 +3,7 @@ package dreamhost
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/libdns/dreamhost"
+	"github.com/ksablan/dreamhost-libdns"
 )
 
 // Provider lets Caddy read and manipulate DNS records hosted by this DNS provider.
